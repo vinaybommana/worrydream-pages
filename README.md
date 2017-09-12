@@ -3,4 +3,4 @@ worry dream pages for offline viewing
 
 ## contents
 
-* Learn Programming
+* Learnable Programming
